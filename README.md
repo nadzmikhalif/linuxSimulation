@@ -15,5 +15,5 @@ The commands implemented in the project are:
   -> rm
 
 To run the project, utilise the Makefile by typing as shown below:
-  1) make skku_sh
-  2) ./skku_sh
+  1) make runSimulation
+  2) ./runSimulation
